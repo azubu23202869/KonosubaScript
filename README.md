@@ -9,7 +9,12 @@
     pip install numpy
 ```
 
-運行
+初始化u2
 ```
     python -m uiautomator2 init #CMD運行
+```
+
+運行
+``` 
+    python main.py
 ```
